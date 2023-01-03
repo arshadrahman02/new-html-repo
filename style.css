@@ -1,0 +1,28 @@
+body{
+    background-color: powderblue;
+}
+.form{
+    text-align: center;
+    font-size: 35px;
+}
+*{
+    text-align: center;
+    color: black;
+    border-radius: 5px;
+    font-size: 25px;
+}
+.btn{
+    background-color: greenyellow;
+    color: aliceblue;
+    font-weight: 500;
+     cursor: pointer;
+}
+.btnn{
+    background-color: red;
+    color: white;
+    font-weight: 500;
+    cursor: pointer;
+}
+.pic{
+    text-align: right;
+}
